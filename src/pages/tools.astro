@@ -1,0 +1,74 @@
+---
+import Layout from '../layouts/BlogPost.astro';
+---
+
+<Layout
+	title="Tools"
+	description="Tools built for minds that work different"
+	pubDate={new Date()}
+>
+	<p>We don't just write about productivity for divergent minds. We build tools that actually work.</p>
+
+	<h2>FlowFrame</h2>
+	<p><strong>A dashboard for chaotic minds.</strong></p>
+	<p>
+		Most dashboards assume you want to see everything. FlowFrame shows you what matters <em>right now</em>. 
+		Calendar events, focus timer, system status—glanceable, beautiful, built for brains that experience 
+		time as "now" and "not now."
+	</p>
+	<ul>
+		<li>One-time purchase. No subscriptions.</li>
+		<li>macOS native. Fast and private.</li>
+		<li>Syncs with your existing tools.</li>
+	</ul>
+	<p><a href="https://flowframe.app">Learn more →</a></p>
+
+	<hr />
+
+	<h2>Managed AI Agent</h2>
+	<p><strong>Your own AI assistant, actually private.</strong></p>
+	<p>
+		ChatGPT is convenient, but your data lives on their servers forever. Our managed agent service 
+		gives you a personal AI with American engineering and European data protection. Swiss encryption. 
+		Your conversations stay yours.
+	</p>
+	<ul>
+		<li>Private by default. Your data never trains models.</li>
+		<li>Hosted in EU (Hetzner). Swiss encryption (Proton).</li>
+		<li>Works with your tools and workflows.</li>
+	</ul>
+	<p><em>Coming soon. Join the waitlist.</em></p>
+
+	<hr />
+
+	<h2>More Coming</h2>
+	<p>
+		We're building a suite of tools for minds that work different. 
+		Each one designed around how we actually think, not how productivity gurus say we should.
+	</p>
+	<p>
+		Want to know when we launch something new? Follow us on <a href="https://twitter.com/cognitiveelite">Twitter</a>.
+	</p>
+</Layout>
+
+<style>
+	h2 {
+		margin-top: 2em;
+		color: var(--accent);
+	}
+	ul {
+		list-style: none;
+		padding: 0;
+	}
+	ul li {
+		padding: 0.5em 0;
+		padding-left: 1.5em;
+		position: relative;
+	}
+	ul li::before {
+		content: "→";
+		position: absolute;
+		left: 0;
+		color: var(--accent);
+	}
+</style>
