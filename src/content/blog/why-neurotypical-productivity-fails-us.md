@@ -1,8 +1,7 @@
 ---
-title: 'Why Neurotypical Productivity Advice Fails Us'
-description: 'The productivity industry wasn't built for brains like ours. Here's why, and what to do about it.'
+title: "Why Neurotypical Productivity Advice Fails Us"
+description: "The productivity industry was not built for brains like ours. Here is why, and what to do about it."
 pubDate: 'Jan 29 2026'
-heroImage: '/blog-placeholder-1.jpg'
 ---
 
 The productivity industry is a $13 billion machine built on a single assumption: your brain works like everyone else's.

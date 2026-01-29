@@ -2,7 +2,6 @@
 title: "Who Actually Thrives in the Age of AI"
 description: "It is not the social chads. It is not the tech nerds. It is the weird kids who learned to blend in."
 pubDate: 'Jan 29 2026'
-heroImage: '/blog-placeholder-3.jpg'
 ---
 
 Everyone has a theory about who wins in the age of AI.

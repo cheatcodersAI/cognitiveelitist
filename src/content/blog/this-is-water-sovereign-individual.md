@@ -2,7 +2,6 @@
 title: "This Is Water: The Transformation We Cannot See"
 description: "David Foster Wallace and The Sovereign Individual both point to the same truth - the most important realities are invisible because they are everywhere."
 pubDate: 'Jan 29 2026'
-heroImage: '/blog-placeholder-2.jpg'
 ---
 
 In 2005, David Foster Wallace gave a commencement speech that opened with a parable:
